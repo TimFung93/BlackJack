@@ -175,8 +175,8 @@ def game():
 			break
 		print "Player = %d  House = %d" % (player_wins, house_wins)
 
-		exit = raw_input("Press Enter to play again, q to quit: ").lower()
-		if 'q' in exit:
+		ex = raw_input("Press Enter to play again, q to quit: ").lower()
+		if 'q' in ex:
 			break
 
 game()
