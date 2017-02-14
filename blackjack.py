@@ -16,7 +16,6 @@ HJ = 10
 HQ = 10
 HK = 10
 
-
 S2 = 2
 S3 = 3
 S4 = 4 
@@ -43,7 +42,6 @@ C10 = 10
 CJ = 10
 CQ = 10
 CK = 10
-
 
 D2 = 2
 D3 = 3
@@ -90,8 +88,6 @@ def total(hand):
 
 	# returns total to user		
 	return total 
-
-
 
 
 """game logic below"""
